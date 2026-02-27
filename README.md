@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chirag-kaura
 - 👀 I’m interested in Data Analysis and Business Analytics
-- 🌱 I’m currently learning Full Stack Data Analysis Program
+- 🌱 I’m currently learning Data Science and Gen AI Program
 - 💞️ I’m looking to collaborate on finding Data insights on any project
 - 📫 How to reach me : kindly mail me at - chiragkaura.work@gmail.com or connect with me on linkedin- www.linkedin.com/in/chirag-kaura
 
