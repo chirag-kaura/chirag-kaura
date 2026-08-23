@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I'm **Chirag Kaura**, a Data Science & AI postgraduate student at **Praxis Tech School**, exploring the intersection of:
 
@@ -27,7 +27,7 @@ I enjoy working with data from the ground up — understanding the problem, expl
 
 Currently focused on:
 
-`Statistics` · `Machine Learning` · `Data Analytics` · `Generative AI` · `Financial Analytics`
+Statistics · Machine Learning · Data Analytics · Generative AI · Financial Analytics
 
 ---
 
@@ -35,7 +35,7 @@ Currently focused on:
 
 My current learning and project direction follows this path:
 
-```text
+`	ext
 Raw Data
     ↓
 Data Analysis
@@ -47,89 +47,46 @@ Generative AI
 Financial Intelligence
     ↓
 Actionable Insights
-```
+`
 
 I'm particularly interested in building **modular analytics tools** that combine data, machine learning, visualization and AI to solve real-world financial problems.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 📊 Market Analytics
+### 📈 Vprofitables: Institutional Quant & AI Engine
 
-**Financial market analysis using Python, statistics and visualization.**
+**A proprietary-grade quantitative platform blending Machine Learning, Time-Frequency Analysis, and Microstructure Order Flow into a seamless Progressive Web App.**
 
-Exploring OHLC data, market behaviour, technical indicators and patterns.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chirag-kaura/vprofitables/main/assets/dashboard.png" width="100%" alt="Vprofitables Desktop Terminal"/>
+</div>
 
-**Focus:**
-`Python` `Pandas` `Statistics` `Visualization`
+I engineered an end-to-end algorithmic trading and backtesting engine that replaces static retail indicators with advanced financial mathematics and AI. 
 
-<a href="https://github.com/chirag-kaura">
-View Projects →
-</a>
+**Key Technical Achievements:**
+* **Continual Learning ML:** Implemented SGDClassifier using online learning to dynamically adapt trade scoring weights day-by-day, eliminating concept drift.
+* **Hybrid Database Architecture:** Built a sub-millisecond data pipeline using **DuckDB** for high-frequency tick data (Cumulative Volume Delta) and **SQLite** for relational portfolio states.
+* **Time-Frequency Analysis:** Extracted non-stationary market cycles using **Continuous Wavelet Transforms (Morlet)**.
+* **Institutional Backtesting:** Developed rigorous evaluation metrics including **Monte Carlo Permutations** (True Maximum Drawdown) and **Deflated Sharpe Ratios** to prevent p-hacking.
 
-</td>
+**Focus Stack:**
+Python Scikit-Learn DuckDB Wavelet Transforms Statistical Arbitrage
 
-<td width="50%">
-
-### 🤖 Generative AI
-
-**AI-powered applications built around real-world data and documents.**
-
-Exploring LLMs, RAG, embeddings and intelligent data interfaces.
-
-**Focus:**
-`Python` `LLMs` `RAG` `GenAI`
-
-<a href="https://github.com/chirag-kaura">
-View Projects →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 Financial Analytics
-
-**Data-driven exploration of companies, markets and portfolios.**
-
-Combining quantitative analysis with financial domain knowledge.
-
-**Focus:**
-`Financial Data` `Analytics` `Visualization`
-
-<a href="https://github.com/chirag-kaura">
-View Projects →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 Machine Learning
-
-**End-to-end machine learning experiments and applications.**
-
-From exploratory analysis and feature engineering to model evaluation.
-
-**Focus:**
-`Scikit-learn` `Pandas` `Statistics` `ML`
-
-<a href="https://github.com/chirag-kaura">
-View Projects →
-</a>
+<div align="center">
+  <a href="https://github.com/chirag-kaura/vprofitables">
+  <b>⭐ View Vprofitables Repository →</b>
+  </a>
+</div>
 
 </td>
 </tr>
 </table>
-
-> **Featured project links can be replaced with the actual repositories as we build them.**
 
 ---
 
@@ -219,7 +176,7 @@ The activity graph uses the project's current canonical Vercel deployment rather
 
 ## 📚 Currently Learning
 
-```text
+`	ext
 Machine Learning
 ├── Supervised Learning
 ├── Unsupervised Learning
@@ -245,7 +202,7 @@ Financial Analytics
 ├── Fundamental Analysis
 ├── Portfolio Analytics
 └── Quantitative Research
-```
+`
 
 ---
 
