@@ -64,7 +64,7 @@ I'm particularly interested in building **modular analytics tools** that combine
 **A proprietary-grade quantitative platform blending Machine Learning, Time-Frequency Analysis, and Microstructure Order Flow into a seamless Progressive Web App.**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chirag-kaura/vprofitables/main/assets/dashboard.png" width="100%" alt="Vprofitables Desktop Terminal"/>
+  <img src="https://raw.githubusercontent.com/chirag-kaura/vprofitables/main/assets/chart.png" width="100%" alt="Vprofitables Desktop Terminal"/>
 </div>
 
 I engineered an end-to-end algorithmic trading and backtesting engine that replaces static retail indicators with advanced financial mathematics and AI. 
